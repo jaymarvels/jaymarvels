@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on large multi national sites. <br>Some side projects that support Football Manager<br>Maintaining the Pokemon API C# SDK.<br>I currently play around with the azure stack and AWS stack<br>Over a decades experience in Optimizely/Episerver and Umbraco
+Currently working on large multi national sites mainly using Optimizely/Episerver SDK and Umbraco. <br>Some side projects that support Football Manager<br>Maintaining the Pokemon API C# SDK.<br>I currently play around with the azure stack and AWS stack<br>Over a decades experience in Optimizely/Episerver and Umbraco
 
 
 ## 🌐 Socials:
